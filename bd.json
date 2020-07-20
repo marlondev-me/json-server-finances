@@ -1,0 +1,51 @@
+{
+  "transactions": [
+    {
+      "id": "8c25b196-53e0-43fc-8d37-8ed3a5d0f895",
+      "title": "Salario",
+      "type": "income",
+      "value": 1500
+    },
+    {
+      "id": "71f2c5d6-3ff5-4557-87bc-3b797246e33f",
+      "title": "Luz",
+      "type": "outcome",
+      "value": 300
+    },
+    {
+      "id": "994a3dac-88d2-4598-bb2c-13c04a7a6418",
+      "title": "Mouse",
+      "type": "outcome",
+      "value": 20
+    },
+    {
+      "id": "72a0ef57-1da5-4f64-af37-0da71764a1de",
+      "title": "Teclado",
+      "type": "outcome",
+      "value": 50
+    },
+    {
+      "id": "a0321d0b-df6e-4599-a8b1-dc3f01d2f643",
+      "title": "Redmi Airdots",
+      "type": "outcome",
+      "value": 200
+    },
+    {
+      "id": "738bed2a-e342-4f5f-b366-2efa1e21efb0",
+      "title": "Freelancer",
+      "type": "income",
+      "value": 500
+    },
+    {
+      "id": "de4a40f7-d821-4fd6-9b13-c9281ab1620d",
+      "title": "Smartphone",
+      "type": "outcome",
+      "value": 1200
+    }
+  ],
+  "balance": {
+    "income": 2000,
+    "outcome": 1770,
+    "total": 230
+  }
+}
