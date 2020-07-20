@@ -1,5 +1,6 @@
 {
-  "transactions": [
+  "transactions" : {
+    "transactions": [
     {
       "id": "8c25b196-53e0-43fc-8d37-8ed3a5d0f895",
       "title": "Salario",
@@ -48,4 +49,5 @@
     "outcome": 1770,
     "total": 230
   }
+ }
 }
