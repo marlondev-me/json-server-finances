@@ -1,103 +1,101 @@
 {
   "transactions" : {
-    {
-      "transactions": [
-        {
-          "id": "84ba15d7-d725-4ac7-a40d-b34ac604f061",
-          "title": "Cadeira Gamer",
-          "type": "income",
-          "value": "1500.00",
-          "category_id": "345b3847-642a-4fb2-998a-46d4e632aaca",
-          "created_at": "2020-06-30T08:03:12.190Z",
-          "updated_at": "2020-06-30T08:03:12.190Z",
-          "category": {
-            "id": "345b3847-642a-4fb2-998a-46d4e632aaca",
-            "title": "test",
-            "created_at": "2020-06-30T08:03:12.174Z",
-            "updated_at": "2020-06-30T08:03:12.174Z"
-          }
-        },
-        {
-          "id": "e23f6689-e380-48eb-8b45-040e50f4c64e",
-          "title": "Mesa Gamer",
-          "type": "income",
-          "value": "1500.00",
-          "category_id": "345b3847-642a-4fb2-998a-46d4e632aaca",
-          "created_at": "2020-07-06T03:27:37.142Z",
-          "updated_at": "2020-07-06T03:27:37.142Z",
-          "category": {
-            "id": "345b3847-642a-4fb2-998a-46d4e632aaca",
-            "title": "test",
-            "created_at": "2020-06-30T08:03:12.174Z",
-            "updated_at": "2020-06-30T08:03:12.174Z"
-          }
-        },
-        {
-          "id": "359c6725-dc4d-4da7-b2fe-3ea245f7b48f",
-          "title": "Teclado Gamer",
-          "type": "outcome",
-          "value": "1500.00",
-          "category_id": "4db399dd-7b90-429b-892c-baa1114bb6b2",
-          "created_at": "2020-07-06T03:41:08.454Z",
-          "updated_at": "2020-07-06T03:41:08.454Z",
-          "category": {
-            "id": "4db399dd-7b90-429b-892c-baa1114bb6b2",
-            "title": "periferico",
-            "created_at": "2020-07-06T03:41:08.446Z",
-            "updated_at": "2020-07-06T03:41:08.446Z"
-          }
-        },
-        {
-          "id": "3aaf4a5d-8d13-45c9-807f-642fabb02171",
-          "title": "Loan",
-          "type": "income",
-          "value": "1500.00",
-          "category_id": "06fa080f-de24-4883-a757-ad9f84e66375",
-          "created_at": "2020-07-06T05:33:39.096Z",
-          "updated_at": "2020-07-06T05:33:39.096Z",
-          "category": {
-            "id": "06fa080f-de24-4883-a757-ad9f84e66375",
-            "title": "Others",
-            "created_at": "2020-07-06T05:33:39.089Z",
-            "updated_at": "2020-07-06T05:33:39.089Z"
-          }
-        },
-        {
-          "id": "8892c41e-e04c-416f-9b79-57564859389b",
-          "title": "Website Hosting",
-          "type": "outcome",
-          "value": "50.00",
-          "category_id": "06fa080f-de24-4883-a757-ad9f84e66375",
-          "created_at": "2020-07-06T05:33:39.096Z",
-          "updated_at": "2020-07-06T05:33:39.096Z",
-          "category": {
-            "id": "06fa080f-de24-4883-a757-ad9f84e66375",
-            "title": "Others",
-            "created_at": "2020-07-06T05:33:39.089Z",
-            "updated_at": "2020-07-06T05:33:39.089Z"
-          }
-        },
-        {
-          "id": "82b7df64-7c5e-4933-9307-dc4fc6f0845c",
-          "title": "Ice cream",
-          "type": "outcome",
-          "value": "3.00",
-          "category_id": "d02cf271-757d-4cee-8840-51872c37aba6",
-          "created_at": "2020-07-06T05:33:39.096Z",
-          "updated_at": "2020-07-06T05:33:39.096Z",
-          "category": {
-            "id": "d02cf271-757d-4cee-8840-51872c37aba6",
-            "title": "Food",
-            "created_at": "2020-07-06T05:33:39.089Z",
-            "updated_at": "2020-07-06T05:33:39.089Z"
-          }
+    "transactions": [
+      {
+        "id": "84ba15d7-d725-4ac7-a40d-b34ac604f061",
+        "title": "Cadeira Gamer",
+        "type": "income",
+        "value": "1500.00",
+        "category_id": "345b3847-642a-4fb2-998a-46d4e632aaca",
+        "created_at": "2020-06-30T08:03:12.190Z",
+        "updated_at": "2020-06-30T08:03:12.190Z",
+        "category": {
+          "id": "345b3847-642a-4fb2-998a-46d4e632aaca",
+          "title": "test",
+          "created_at": "2020-06-30T08:03:12.174Z",
+          "updated_at": "2020-06-30T08:03:12.174Z"
         }
-      ],
-      "balance": {
-        "income": 4500,
-        "outcome": 1553,
-        "total": 2947
+      },
+      {
+        "id": "e23f6689-e380-48eb-8b45-040e50f4c64e",
+        "title": "Mesa Gamer",
+        "type": "income",
+        "value": "1500.00",
+        "category_id": "345b3847-642a-4fb2-998a-46d4e632aaca",
+        "created_at": "2020-07-06T03:27:37.142Z",
+        "updated_at": "2020-07-06T03:27:37.142Z",
+        "category": {
+          "id": "345b3847-642a-4fb2-998a-46d4e632aaca",
+          "title": "test",
+          "created_at": "2020-06-30T08:03:12.174Z",
+          "updated_at": "2020-06-30T08:03:12.174Z"
+        }
+      },
+      {
+        "id": "359c6725-dc4d-4da7-b2fe-3ea245f7b48f",
+        "title": "Teclado Gamer",
+        "type": "outcome",
+        "value": "1500.00",
+        "category_id": "4db399dd-7b90-429b-892c-baa1114bb6b2",
+        "created_at": "2020-07-06T03:41:08.454Z",
+        "updated_at": "2020-07-06T03:41:08.454Z",
+        "category": {
+          "id": "4db399dd-7b90-429b-892c-baa1114bb6b2",
+          "title": "periferico",
+          "created_at": "2020-07-06T03:41:08.446Z",
+          "updated_at": "2020-07-06T03:41:08.446Z"
+        }
+      },
+      {
+        "id": "3aaf4a5d-8d13-45c9-807f-642fabb02171",
+        "title": "Loan",
+        "type": "income",
+        "value": "1500.00",
+        "category_id": "06fa080f-de24-4883-a757-ad9f84e66375",
+        "created_at": "2020-07-06T05:33:39.096Z",
+        "updated_at": "2020-07-06T05:33:39.096Z",
+        "category": {
+          "id": "06fa080f-de24-4883-a757-ad9f84e66375",
+          "title": "Others",
+          "created_at": "2020-07-06T05:33:39.089Z",
+          "updated_at": "2020-07-06T05:33:39.089Z"
+        }
+      },
+      {
+        "id": "8892c41e-e04c-416f-9b79-57564859389b",
+        "title": "Website Hosting",
+        "type": "outcome",
+        "value": "50.00",
+        "category_id": "06fa080f-de24-4883-a757-ad9f84e66375",
+        "created_at": "2020-07-06T05:33:39.096Z",
+        "updated_at": "2020-07-06T05:33:39.096Z",
+        "category": {
+          "id": "06fa080f-de24-4883-a757-ad9f84e66375",
+          "title": "Others",
+          "created_at": "2020-07-06T05:33:39.089Z",
+          "updated_at": "2020-07-06T05:33:39.089Z"
+        }
+      },
+      {
+        "id": "82b7df64-7c5e-4933-9307-dc4fc6f0845c",
+        "title": "Ice cream",
+        "type": "outcome",
+        "value": "3.00",
+        "category_id": "d02cf271-757d-4cee-8840-51872c37aba6",
+        "created_at": "2020-07-06T05:33:39.096Z",
+        "updated_at": "2020-07-06T05:33:39.096Z",
+        "category": {
+          "id": "d02cf271-757d-4cee-8840-51872c37aba6",
+          "title": "Food",
+          "created_at": "2020-07-06T05:33:39.089Z",
+          "updated_at": "2020-07-06T05:33:39.089Z"
+        }
       }
+    ],
+    "balance": {
+      "income": 4500,
+      "outcome": 1553,
+      "total": 2947
     }
  }
 }
